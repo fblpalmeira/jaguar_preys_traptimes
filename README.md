@@ -8,7 +8,7 @@ We quantified the activity pattern and temporal overlap among the apex predator 
 
 - [Database `.csv`]()
 
-<img src="">
+<img src="https://github.com/fblpalmeira/jaguar_preys_traptimes/blob/main/data/jaguar_prey_traptimes2.png">
 
 Reference:
 
