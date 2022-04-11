@@ -15,4 +15,5 @@ We quantified the activity pattern and temporal overlap among the apex predator 
 Reference:
 
 Palmeira FBL, Trinca CT, Haddad CM. (unpublished data).
+
 Ridout and Linkie (2009).
