@@ -216,5 +216,5 @@ dev.off()
     image_browse(out4)
     
     # And overwrite the plot without a logo
-    image_write(out2, "jaguar_prey_traptimes2.png")
+    image_write(out4, "jaguar_prey_traptimes2.png")
     
