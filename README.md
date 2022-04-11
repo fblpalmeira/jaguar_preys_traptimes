@@ -14,6 +14,6 @@ We quantified the activity pattern and temporal overlap among the apex predator 
 
 Reference:
 
-Palmeira FBL, Trinca CT, Haddad CM. (unpublished data).
+Linkie, M., and M. S. Ridout. 2011. Assessing tiger–prey interactions in Sumatran rainforests. Journal of Zoology 284: 224-229. 
 
-Ridout and Linkie (2009).
+Palmeira FBL, Trinca CT, Haddad CM. (unpublished data).
